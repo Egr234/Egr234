@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🌱 I'm learning Java<br>🔭 I also like to play volleyball<br>⚡ And ride cars
 
