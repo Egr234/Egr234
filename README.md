@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I'm learning Java<br>🔭 I also like to play volleyball<br>⚡ And ride cars
+🌱 I'm learning Java<br>
+🔭 I also like to play volleyball<br>
+⚡ And ride cars
 
 
 # 💻 Tech Stack:
